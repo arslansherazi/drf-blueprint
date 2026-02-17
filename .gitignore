@@ -1,0 +1,15 @@
+# environment files
+.env
+
+# python
+venv/
+.venv/
+.idea/
+__pycache__/
+.python-version
+
+# ruff
+.ruff_cache/
+
+# Database
+*.sqlite3
